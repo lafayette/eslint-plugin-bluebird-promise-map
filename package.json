@@ -1,0 +1,15 @@
+{
+  "name": "eslint-promise-map-plugin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node enforce-bluebird-promise-map-concurrency.test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^9.28.0"
+  }
+}
